@@ -1,11 +1,14 @@
 # Photoshop Duotoneの作成方法
 
-学習要素
+### 学習要素
 - 画像の切り抜き
 - クイック選択ツール
 - レイヤー
 - グラデーションマップ
 - 文字ツール
+
+### サンプル
+[サンプルファイルはこちら](https://github.com/ryo24/PhotoshopDuotoneExplain/tree/master/exampleFiles)
 
 ## 0. 画像の検索
 
