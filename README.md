@@ -9,6 +9,8 @@
 ### サンプル
 [サンプルファイルはこちら](https://github.com/ryo24/PhotoshopDuotoneExplain/tree/master/exampleFiles)
 
+このレポジトリのexampleFilesディレクトリに格納されています。
+
 
 ### 学習要素
 - 画像の切り抜き
