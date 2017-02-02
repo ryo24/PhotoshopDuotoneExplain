@@ -44,6 +44,8 @@
 
 ![クイック選択ツール](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/3_quickchoice.png)
 
+![選択結果](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/3.1_choceedAnimal.png)
+
 ### 新規レイヤーとして切り抜きの実行
 
 確認まで行う。ここで始めてレイヤーという考え方を体験する。
