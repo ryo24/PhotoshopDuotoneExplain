@@ -9,11 +9,16 @@
 1. 画像のサイズは大きなものをダウンロード（500px以上推奨）
 2. 切り抜きのために、背景と境界が分かれているものを選ぶ
 
+![](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/0_search_size.jpg)
+
+
 ## 1. 画像を開く→別名保存
 
 画像を開いたら、まずはフォトショップの画像形式"psd"で保存を行う。
 
-![]()
+![](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/2.1_saveas.png)
+
+![](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/2.2_choicephotoshop.png)
 
 
 ## 2. クイック選択ツールで選択→レイヤーで切り抜き
@@ -21,23 +26,32 @@
 ### クイック選択ツールで選択範囲を決定
 クイック選択ツールはaltキーを押している間は”マイナスモード”になるので、ミスして選択した部分はマイナスモードで削除する
 
+![](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/0_search_size.jpg)
+
 ### 新規レイヤーとして切り抜きの実行
 
 確認まで行う。ここで始めてレイヤーという考え方を知る。
+
+![](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/0_search_size.jpg)
 
 ## 3. 塗りつぶしレイヤーの作成
 背景が透明になっているので、塗りつぶしレイヤーで背景を入れる。
 後ほど、グラデーションマップをかけるので白色で作成。
 （黒色にしてもよい）
+![](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/0_search_size.jpg)
 
 ## 4. レイヤー順序の交換
 
 レイヤーは上から順番に表示される。塗りつぶしレイヤーが上になっている場合は、動物が出てこないので、レイヤーをドラッグ&ドロップして順番を入れ替える
 
+![](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/0_search_size.jpg)
+
 ## 5. グラデーションマップの作成
 
 作成するグラデーションマップは「紫、オレンジ」。
 明るめの色であったほうが、WebのDuotoneに近くなるので、必要なら調整
+
+![](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/0_search_size.jpg)
 
 ## 6. 文字ツールで文字の挿入
 
@@ -45,6 +59,7 @@
 Duotoneでは、文字色は白がわかりやすい。
 （グラデーションマップの下に入れると文字色にもグラデーションがつく）
 
+![](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/0_search_size.jpg)
 
 ---
 
