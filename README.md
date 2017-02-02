@@ -100,6 +100,7 @@ Duotoneでは、文字色は白がわかりやすい。
 ![](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/9_textTool.png)
 
 文字を入れるとこのようになる。
+
 ![After](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/0_after.png)
 
 ---
