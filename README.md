@@ -1,5 +1,15 @@
 # Photoshop Duotoneの作成方法
 
+このような画像を作る
+
+![Before](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/0_before.jpg)
+
+![After](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/0_after.jpg)
+
+### サンプル
+[サンプルファイルはこちら](https://github.com/ryo24/PhotoshopDuotoneExplain/tree/master/exampleFiles)
+
+
 ### 学習要素
 - 画像の切り抜き
 - クイック選択ツール
@@ -7,8 +17,6 @@
 - グラデーションマップ
 - 文字ツール
 
-### サンプル
-[サンプルファイルはこちら](https://github.com/ryo24/PhotoshopDuotoneExplain/tree/master/exampleFiles)
 
 ## 0. 画像の検索
 
