@@ -55,7 +55,10 @@
 
 ![](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/4_makeLayer.png)
 
-![](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/4.3rion_layerChange.gif)
+レイヤーパネルにて、目のボタンをクリックすることで、背景の非表示を行う。
+
+![切り抜きが終わった状態](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/4.1_rion_layer.gif)
+
 
 
 ## 3. 塗りつぶしレイヤーの作成
@@ -66,7 +69,7 @@
 
 ![](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/4.2_singleLayer.png)
 
-![](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/4.1_rion_layer.gif)
+![](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/4.3rion_layerChange.gif)
 
 ## 4. レイヤー順序の交換
 
