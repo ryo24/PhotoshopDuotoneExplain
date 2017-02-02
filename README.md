@@ -4,7 +4,7 @@
 
 ![Before](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/0_before.jpg)
 
-![After](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/0_after.jpg)
+![After](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/0_after.png)
 
 ### サンプル
 [サンプルファイルはこちら](https://github.com/ryo24/PhotoshopDuotoneExplain/tree/master/exampleFiles)
