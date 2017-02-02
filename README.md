@@ -92,10 +92,15 @@
 ## 6. 文字ツールで文字の挿入
 
 文字ツールと移動ツールを紹介する。
+
+文字の作成は文字ツールを利用し、作成後の移動などは移動ツールを利用する。
 Duotoneでは、文字色は白がわかりやすい。
 （グラデーションマップの下に入れると文字色にもグラデーションがつく）
 
 ![](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/9_textTool.png)
+
+文字を入れるとこのようになる。
+![After](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/0_after.png)
 
 ---
 
