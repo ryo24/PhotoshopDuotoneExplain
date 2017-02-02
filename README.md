@@ -57,7 +57,7 @@
 
 レイヤーパネルにて、目のボタンをクリックすることで、背景の非表示を行う。
 
-![切り抜きが終わった状態](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/4.1_rion_layer.gif)
+![切り抜きが終わった状態](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/4_LayerInvisible.gif)
 
 
 
