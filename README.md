@@ -32,13 +32,13 @@
 ## 2. クイック選択ツールで選択→レイヤーで切り抜き
 
 ### クイック選択ツールで選択範囲を決定
-クイック選択ツールはaltキーを押している間は”マイナスモード”になるので、ミスして選択した部分はマイナスモードで削除する
+クイック選択ツールはaltキーを押している間は*マイナスモード*になるので、ミスして選択した部分はマイナスモードで削除する
 
 ![クイック選択ツール](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/3_quickchoice.png)
 
 ### 新規レイヤーとして切り抜きの実行
 
-確認まで行う。ここで始めてレイヤーという考え方を知る。
+確認まで行う。ここで始めてレイヤーという考え方を体験する。
 
 ![](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/4_makeLayer.png)
 
@@ -47,6 +47,7 @@
 
 ## 3. 塗りつぶしレイヤーの作成
 背景が透明になっているので、塗りつぶしレイヤーで背景を入れる。
+
 後ほど、グラデーションマップをかけるので白色で作成。
 （黒色にしてもよい）
 
@@ -62,12 +63,12 @@
 
 ## 5. グラデーションマップの作成
 
-作成するグラデーションマップは「紫、オレンジ」。
+新規調整レイヤーから、グラデーションマップを作成する。グラデーションマップの設定は「紫、オレンジ」。
 
 ![](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/8_gradationMap.png)
 
 
-グラデーションマップレイヤーを作成したら、[属性]->カラー部分をクリックして、グラデーションエディーパネルを開く。明るめの色であったほうが、WebのDuotoneに近くなるので、必要なら調整する。
+グラデーションマップレイヤーを作成したら、*[属性]->カラーバー*をクリックして、グラデーションエディーパネルを開く。明るめの色であったほうが、WebのDuotoneに近くなるので、必要なら調整する。
 カラーバー下部の■をクリックすれば変更が可能。
 
 ![](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/8.1_rion_gradationMap.gif)
@@ -86,9 +87,10 @@ Duotoneでは、文字色は白がわかりやすい。
 ## 番外編Tips集
 
 ### 背景をグラデーションにする
-背景の塗りつぶしレイヤーを作成じに、ベタ塗りではなく、グラデーション塗りつぶしに変更する
+背景の塗りつぶしレイヤーを作成時に、ベタ塗りではなく、グラデーション塗りつぶしに変更する
 
 ![](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/tips1_makeGradationBackground.gif)
 
 完成イメージ
-![](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/tips1_rion_CMinput.png)
+
+![完成イメージ](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/tips1_rion_CMinput.png)
