@@ -50,7 +50,8 @@
 
 ### 新規レイヤーとして切り抜きの実行
 
-確認まで行う。ここで始めてレイヤーという考え方を体験する。
+選択範囲を元に、切り抜きレイヤーを作成する。
+ここで始めてレイヤーという考え方を体験する。
 
 ![](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/4_makeLayer.png)
 
