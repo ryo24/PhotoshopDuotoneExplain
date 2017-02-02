@@ -1,6 +1,11 @@
 # Photoshop Duotoneの作成方法
 
-全ての操作をレイヤーに
+学習要素
+- 画像の切り抜き
+- クイック選択ツール
+- レイヤー
+- グラデーションマップ
+- 文字ツール
 
 ## 0. 画像の検索
 
@@ -34,7 +39,7 @@
 
 ![](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/4_makeLayer.png)
 
-![](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/5_afterCut.png)
+![](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/4.3rion_layerChange.gif)
 
 
 ## 3. 塗りつぶしレイヤーの作成
@@ -55,9 +60,12 @@
 ## 5. グラデーションマップの作成
 
 作成するグラデーションマップは「紫、オレンジ」。
-明るめの色であったほうが、WebのDuotoneに近くなるので、必要なら調整する。
 
 ![](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/8_gradationMap.png)
+
+
+グラデーションマップレイヤーを作成したら、[属性]->カラー部分をクリックして、グラデーションエディーパネルを開く。明るめの色であったほうが、WebのDuotoneに近くなるので、必要なら調整する。
+カラーバー下部の■をクリックすれば変更が可能。
 
 ![](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/8.1_rion_gradationMap.gif)
 
@@ -75,3 +83,9 @@ Duotoneでは、文字色は白がわかりやすい。
 ## 番外編Tips集
 
 ### 背景をグラデーションにする
+背景の塗りつぶしレイヤーを作成じに、ベタ塗りではなく、グラデーション塗りつぶしに変更する
+
+![](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/tips1_makeGradationBackground.gif)
+
+完成イメージ
+![](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/tips1_rion_CMinput.png)
