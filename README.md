@@ -69,7 +69,7 @@
 
 ![](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/4.2_singleLayer.png)
 
-![](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/4.3rion_layerChange.gif)
+![](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/4.3lion_layerChange.gif)
 
 ## 4. レイヤー順序の交換
 
@@ -87,7 +87,7 @@
 グラデーションマップレイヤーを作成したら、*[属性]->カラーバー*をクリックして、グラデーションエディーパネルを開く。明るめの色であったほうが、WebのDuotoneに近くなるので、必要なら調整する。
 カラーバー下部の■をクリックすれば変更が可能。
 
-![](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/8.1_rion_gradationMap.gif)
+![](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/8.1_lion_gradationMap.gif)
 
 ## 6. 文字ツールで文字の挿入
 
@@ -115,4 +115,4 @@ Duotoneでは、文字色は白がわかりやすい。
 
 完成イメージ
 
-![完成イメージ](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/tips1_rion_CMinput.png)
+![完成イメージ](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/tips1_lion_CMinput.png)
