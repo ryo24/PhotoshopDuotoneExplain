@@ -116,3 +116,19 @@ Duotoneでは、文字色は白がわかりやすい。
 完成イメージ
 
 ![完成イメージ](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/tips1_lion_CMinput.png)
+
+
+### [WIP]境界線の調整で切り抜き名人
+
+スマート半径を利用して、ぼかしをかけることで、Duotoneにしたときの切り抜いた感はかなりなくなる
+
+![境界は内側に作るとよりよい](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/tips2_edgeAdjust.gif)
+
+完成図はこちら
+
+![完成イメージ](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/tips2_layerAdjustComp.png)
+
+
+### [WIP]おしゃれなカラーは今あるポスターからKulerで抜き出せ！
+
+### [WIP]吹き出しを作るとよりセリフっぽくなる？？
