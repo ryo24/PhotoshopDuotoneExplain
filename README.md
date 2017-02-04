@@ -42,7 +42,7 @@
 ## 2. クイック選択ツールで選択→レイヤーで切り抜き
 
 ### クイック選択ツールで選択範囲を決定
-クイック選択ツールはaltキーを押している間は*マイナスモード*になるので、ミスして選択した部分はマイナスモードで削除する
+クイック選択ツールはaltキーを押している間は **マイナスモード**になるので、ミスして選択した部分はマイナスモードで削除する
 
 ![クイック選択ツール](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/3_quickchoice.png)
 
@@ -66,6 +66,7 @@
 
 後ほど、グラデーションマップをかけるので白色で作成。
 （黒色にしてもよい）
+（グラデーションマップは画像を2値化して色を変更しているので灰色にすると背景色が中間に寄り淡い印象を作ることができます）
 
 ![](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/4.2_singleLayer.png)
 
@@ -84,7 +85,7 @@
 ![](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/8_gradationMap.png)
 
 
-グラデーションマップレイヤーを作成したら、*[属性]->カラーバー*をクリックして、グラデーションエディーパネルを開く。明るめの色であったほうが、WebのDuotoneに近くなるので、必要なら調整する。
+グラデーションマップレイヤーを作成したら、 **[属性]->カラーバー**をクリックして、グラデーションエディーパネルを開く。明るめの色であったほうが、WebのDuotoneに近くなるので、必要なら調整する。
 カラーバー下部の■をクリックすれば変更が可能。
 
 ![](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/8.1_lion_gradationMap.gif)
@@ -120,21 +121,22 @@ Duotoneでは、文字色は白がわかりやすい。
 
 ### [WIP]境界線の調整で切り抜き名人
 
-スマート半径を利用して、ぼかしをかけることで、Duotoneにしたときの切り抜いた感はかなりなくなる
+選択とマスクから選択
+スマート半径を利用して、ぼかしをかけることで、Duotoneにしたときの切り抜いた感は結構なくなる。
 
 ![境界は内側に作るとよりよい](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/tips2_edgeAdjust.gif)
 
-完成図はこちら
+完成イメージはこちら
 
 ![完成イメージ](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/tips2_layerAdjustComp.png)
 
 
-### [WIP]おしゃれなカラーは今あるポスターからKulerで抜き出せ！
+### [WIP]おしゃれなカラーは、今あるポスターからKulerで抜き出せ！
 
 1. Webでkulerを開く
-2. カラーを参考にしたいDuotoneの画像をD&D
+2. カラーを参考にしたいDuotoneの画像をドラッグ
 3. カラーが自動抜き出しされる
-4. 画像モードからカラー指定モードにして、#のやつをコピー
+4. 画像モードからカラー指定モードにして、#カラーコードをコピー
 
 ### [WIP]吹き出しを作るとよりセリフっぽくなる？？
 
