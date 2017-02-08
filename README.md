@@ -1,6 +1,6 @@
-# Photoshop Duotoneの作成方法
+# PhotoshopでDuotoneを作りたい
 
-このような画像を作る
+このような画像を作る。
 
 ![Before](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/0_before.jpg)
 
@@ -9,7 +9,7 @@
 ### サンプル
 [サンプルファイルはこちら](https://github.com/ryo24/PhotoshopDuotoneExplain/tree/master/exampleFiles)
 
-このページのexampleFilesフォルダに格納されています。
+このページのexampleFilesフォルダに格納されているので、必要なら利用する。
 
 
 ### 学習要素
