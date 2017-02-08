@@ -78,6 +78,7 @@ Photoshopの基本となる、レイヤーについても理解する。
 ## 4. レイヤー順序の交換
 
 レイヤーは上から順番に表示される。塗りつぶしレイヤーが上になっている場合は、動物が出てこない。
+
 その場合はレイヤーをドラッグ&ドロップして順番を入れ替える
 
 ![](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/6_layerListChange.gif)
@@ -90,10 +91,12 @@ Photoshopの基本となる、レイヤーについても理解する。
 
 ![](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/8_gradationMap.png)
 
+グラデーションマップレイヤーを作成したら、 **[属性]->カラーバー**をクリックして、グラデーションエディターパネルを開く。
+
 ![](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/8.1_makingGradation.gif)
 
 
-グラデーションマップレイヤーを作成したら、 **[属性]->カラーバー**をクリックして、グラデーションエディーパネルを開く。明るめの色であったほうが、WebのDuotoneに近くなるので、必要なら調整する。
+明るめの色であったほうが、WebのDuotoneに近くなるので、必要なら調整する。
 カラーバー下部の■をクリックすれば変更が可能。
 
 （左を暗い色、右を明るい色にすることが鉄則。逆にするとネガポジ反転が起こってしまう。）
