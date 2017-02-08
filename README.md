@@ -9,7 +9,7 @@
 ### サンプル
 [サンプルファイルはこちら](https://github.com/ryo24/PhotoshopDuotoneExplain/tree/master/exampleFiles)
 
-このレポジトリのexampleFilesディレクトリに格納されています。
+このページのexampleFilesフォルダに格納されています。
 
 
 ### 学習要素
@@ -51,7 +51,7 @@
 ### 新規レイヤーとして切り抜きの実行
 
 選択範囲を元に、切り抜きレイヤーを作成する。
-ここで始めてレイヤーという考え方を体験する。
+Photoshopの基本となる、レイヤーについても理解する。
 
 ![](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/4_makeLayer.png)
 
@@ -65,8 +65,11 @@
 背景が透明になっているので、塗りつぶしレイヤーで背景を入れる。
 
 後ほど、グラデーションマップをかけるので白色で作成。
+
 （黒色にしてもよい）
-（グラデーションマップは画像を2値化して色を変更しているので灰色にすると背景色が中間に寄り淡い印象を作ることができます）
+
+（グラデーションマップは画像の白黒をベースに変更しているので、
+背景色を灰色にすると背景色が中間に寄り淡い印象を作ることができる）
 
 ![](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/4.2_singleLayer.png)
 
@@ -74,13 +77,16 @@
 
 ## 4. レイヤー順序の交換
 
-レイヤーは上から順番に表示される。塗りつぶしレイヤーが上になっている場合は、動物が出てこないので、レイヤーをドラッグ&ドロップして順番を入れ替える
+レイヤーは上から順番に表示される。塗りつぶしレイヤーが上になっている場合は、動物が出てこない。
+その場合はレイヤーをドラッグ&ドロップして順番を入れ替える
 
 ![](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/6_layerListChange.gif)
 
 ## 5. グラデーションマップの作成
 
-新規調整レイヤーから、グラデーションマップを作成する。グラデーションマップの設定は「紫、オレンジ」。
+新規調整レイヤーから、グラデーションマップを作成する。
+
+グラデーションマップの設定は「紫、オレンジ」。
 
 ![](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/8_gradationMap.png)
 
@@ -90,13 +96,18 @@
 グラデーションマップレイヤーを作成したら、 **[属性]->カラーバー**をクリックして、グラデーションエディーパネルを開く。明るめの色であったほうが、WebのDuotoneに近くなるので、必要なら調整する。
 カラーバー下部の■をクリックすれば変更が可能。
 
+（左を暗い色、右を明るい色にすることが鉄則。逆にするとネガポジ反転が起こってしまう。）
+
+（カラーリングを変える場合はインターネットでDuotoneを検索して参考にする）
+
 ![](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/8.1_lion_gradationMap.gif)
 
 ## 6. 文字ツールで文字の挿入
 
 文字の作成は文字ツールを利用し、作成後の移動などは移動ツールを利用する。
 Duotoneでは、文字色は白がわかりやすい。
-（グラデーションマップの下に入れると文字色にもグラデーションがつく）
+
+（グラデーションマップレイヤーの下に移動させると文字色にもグラデーションがつく）
 
 ![](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/9_textTool.png)
 
@@ -123,7 +134,7 @@ Duotoneでは、文字色は白がわかりやすい。
 ![完成イメージ](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/tips1_lion_CMinput.png)
 
 
-### [WIP]境界線の調整で切り抜き名人
+### 境界線の調整で切り抜き名人
 
 選択とマスクから選択
 スマート半径を利用して、ぼかしをかけることで、Duotoneにしたときの切り抜いた感は結構なくなる。
@@ -135,9 +146,9 @@ Duotoneでは、文字色は白がわかりやすい。
 ![完成イメージ](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/tips2_layerAdjustComp.png)
 
 
-### [WIP]おしゃれなカラーは、今あるポスターからKulerで抜き出せ！
+### [WIP]おしゃれなカラーは、今あるポスターからAdobeColorで抜き出せ！
 
-1. Webでkulerを開く
+1. Webで[AdobeColor](https://color.adobe.com/ja/)を開く
 2. カラーを参考にしたいDuotoneの画像をドラッグ
 3. カラーが自動抜き出しされる
 4. 画像モードからカラー指定モードにして、#カラーコードをコピー
@@ -145,4 +156,4 @@ Duotoneでは、文字色は白がわかりやすい。
 ### [WIP]吹き出しを作るとよりセリフっぽくなる？？
 
 1. 角丸長方形と多角形ツールから三角形を利用して吹き出しを作る
-2. 大きさを調整したいときはメニューにある編集 -> 変形 -> 拡大縮小から調整を行う
+2. 大きさを調整したいときはメニューにある **編集 -> 変形 -> 拡大縮小** から調整を行う
