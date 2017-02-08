@@ -122,6 +122,14 @@ Duotoneでは、文字色は白がわかりやすい。
 
 ![After](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/0_after.png)
 
+## 7. 画像ファイルとして書き出し
+
+フォトショップファイルとして保存しただけでは、画像として利用できないため、書き出しを行う。
+
+CCから書き出しが便利になり、クイック書き出し機能を利用することができる。
+
+![書き出し](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/7_ExtractPNG.png)
+
 ---
 
 
