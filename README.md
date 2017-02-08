@@ -84,6 +84,8 @@
 
 ![](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/8_gradationMap.png)
 
+![](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/8.1_makingGradation.gif)
+
 
 グラデーションマップレイヤーを作成したら、 **[属性]->カラーバー**をクリックして、グラデーションエディーパネルを開く。明るめの色であったほうが、WebのDuotoneに近くなるので、必要なら調整する。
 カラーバー下部の■をクリックすれば変更が可能。
@@ -92,13 +94,15 @@
 
 ## 6. 文字ツールで文字の挿入
 
-文字ツールと移動ツールを紹介する。
-
 文字の作成は文字ツールを利用し、作成後の移動などは移動ツールを利用する。
 Duotoneでは、文字色は白がわかりやすい。
 （グラデーションマップの下に入れると文字色にもグラデーションがつく）
 
 ![](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/9_textTool.png)
+
+![](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/9.1_makingText.gif)
+
+
 
 文字を入れるとこのようになる。
 
