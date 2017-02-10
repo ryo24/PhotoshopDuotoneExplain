@@ -138,6 +138,9 @@ CCから書き出しが便利になり、クイック書き出し機能を利用
 ### 背景をグラデーションにする
 背景の塗りつぶしレイヤーを作成時に、ベタ塗りではなく、グラデーション塗りつぶしに変更する
 
+グラデーションの種類は**[白→黒]**を選択する。
+白黒を判定してグラデーションマップがかかるため。
+
 ![](https://github.com/ryo24/PhotoshopDuotoneExplain/blob/master/images/tips1_makeGradationBackground.gif)
 
 完成イメージ
